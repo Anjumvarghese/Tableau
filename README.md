@@ -7,7 +7,6 @@ This Tableau project provides a detailed analysis of sales and profit metrics us
 - **Profit by Market:** Bubble chart visualizing profitability across global markets.
 - **Profit by Each Segment:** Text table summarizing profit margins by segment for deeper insights.
 - **Profit by Region:** Treemap visualization showing contribution to overall profit from each region.
-- **Dynamic Filters:** Ability to filter by category, region, and segment to analyze specific trends.
 
 ## 📸 Dashboard Preview
-![Global Superstore Dashboard]
+Global Superstore Dashboard- https://github.com/Anjumvarghese/Tableau/blob/main/Global%20Superstore%20Dashboard.PNG
